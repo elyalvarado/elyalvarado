@@ -25,6 +25,21 @@ Have you seen one of those list of personal values?, like [James Clear's Core Va
 
 While there are many other values that I care about, these are the ones that I'll probably choose given any conflict between other values.
 
+## My Strengths
+There are many online questionnaires that can help you understand your strengths. In my case I took the [University of Toronto Strengths Based Resiliency SSQ-72](https://strengthsbasedresilience.com/)
+
+And this are my [results](https://strengthsbasedresilience.com/assessments/feedback/BQMlgWq9L7):
+
+**Signature Strength Questionnaire (SSQ-72)**
+
+
+* **Appreciation of Beauty & Excellence**: You are very good at perceiving and appreciating beauty and excellence in many areas of life, from nature to art to mathematics to science. Display of excellence inspires you. You love to incorporate things of beauty in your surroundings. You feel at ease when you are amid art or watching a great performance.
+* **Fairness, Equity & Justice**: You treat everyone fairly. You stand up for others when they are bullied or ridiculed. You care genuinely about the welfare of others, even those you do not know personally. You do not make excuses to justify your mistakes and you do not let your personal feelings influence your decisions about other people. You give everyone a fair chance. With those who make the right decisions, you follow them as a role model.
+* **Forgiveness & Mercy**: You never hold grudges and good at letting go of wrong-doing of others. You forgive easily those who have offended or hurt you and once you forgive, you stay committed to it and rarely bring up the hurt again - because you don't not believe in revenge and always give others a second chance.
+* **Hope, Optimism & Future-mindedness**: Despite challenges and setbacks, you always remain hopeful that things will work out eventually. You feel and believe that if you use all your resources and work hard, you will achieve your goals. Therefore, a setback or a challenge does not dampen your spirits easily - because it doesn't affect each and every aspect of your life. For you, a low grade on an exam is a setback but it doesn't ruin your whole academic performance. This realistic perceptive allows you to see the best, yet most realistic, aspects of the situation. You plan for the future with good cheer and with sustained effort.
+* **Love of Learning**: You love to learn new things -- in school or on your own. You make very good use of opportunities where you can gain knowledge about skills, concepts, ideas, and facts. You have always enjoyed school and reading. When it comes to learning, you are persistent; even if you get frustrated or distracted, you refocus and don't give up until you have mastered the topic or skill.
+```
+
 ### What I value on a team
 
 It's ok to know my personal values, but how does that translate to what I value on a team, or at work? Well 
