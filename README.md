@@ -25,6 +25,14 @@ Have you seen one of those list of personal values?, like [James Clear's Core Va
 
 While there are many other values that I care about, these are the ones that I'll probably choose given any conflict between other values.
 
+### What I value on a team
+
+It's ok to know my personal values, but how does that translate to what I value on a team, or at work? Well 
+
+* **Short feedback loops and continous learning**: There is no better way to _**learn**_, and to do it all the time than to have short feedback loops. Feedback provides all that you need to correct course, or to stay put and validate what you just learned. The fastest you get that feedback, the fastest you learn something.
+* **Trust**: This is the base of the piramid for building effective teams. I doubt there is goingn to be a manager README out there that doesn't mention this one. But how do you get there? I believe that acting with _**integrity**_ and holding yourself and others _**accountable**_ is one of the best ways to build trust.
+* **Shipping**: No matter the difficulties, you need to ship (_**resourcefulness**_). If you act with _**integrity**_, use those short feedback loops to continuously _**learn**_, hold yourself and other **accountable** on the results, then you'll not only ship, but you'll ship the right thing.
+
 ## How do I like to communicate
 
 ### Manifesto for Having Effective Conversations with Me
